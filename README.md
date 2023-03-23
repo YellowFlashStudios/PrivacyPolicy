@@ -10,6 +10,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Game published by Yellow Flash Studios:
 -> Superhero Teleport Master
+-> Pull It
+-> Space Simulator
 
 Information Collection and Use:
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
