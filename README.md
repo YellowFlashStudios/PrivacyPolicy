@@ -9,9 +9,11 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Game unless otherwise defined in this Privacy Policy.
 
 Game published by Yellow Flash Studios:
--> Superhero Teleport Master
+-> Superhero Puzzle Game
 -> Pull It
 -> Space Simulator
+-> Bubble Fire Shooter
+-> Tower Raid
 
 Information Collection and Use:
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
@@ -53,4 +55,4 @@ Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 Contact Us:
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at yellowflashstudios@gmail.com
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at contact@yellowflashstudios.co
